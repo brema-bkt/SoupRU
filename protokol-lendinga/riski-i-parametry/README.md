@@ -1,8 +1,6 @@
 # Риски и параметры
 
-Sebelum menggunakan Soup Finance, sangat penting bagi pengguna untuk mengetahui segala bentuk risiko yang ada. Disamping itu, kami akan terus memperhatikan setiap aset yang ada di platform kami untuk ditinjau secara mendalam dan ekstensif untuk mengurangi segala bentuk risiko yang dapat terjadi di lingkungan DeFi.
-
-Risiko yang mungkin terdapat didalam protokol kami ialah:
+Прежде чем использовать Soup Finance, важно понимать, что существует множество рисков, связанных с этим. Однако, мы приложим все усилия к каждому активу, который будет включен в список, чтобы максимально снизит DeFi риск. Риски, связанные с использование наших протоколов, включают:
 
 * **Риски контракта Soup Finance**
 
