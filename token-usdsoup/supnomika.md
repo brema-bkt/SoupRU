@@ -32,7 +32,7 @@ description: Могут быть внесены изменения до запу
 
 #### Добыча ликвидности
 
-Alokasi token yang digunakan sebagai insentif bagi suppliers, borrowers, renters, staking & liquidity providers.
+Распределение, используемое для стимулирования поставщиков, заемщиков, арендаторов, поставщиков ставок и ликвидности.
 
 #### Сообщество и экосистема
 
